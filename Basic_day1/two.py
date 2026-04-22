@@ -1,2 +1,2 @@
-x = input("input your name?")
-print("Hello " + x)
+x = input("input your name? \n")
+print("Hello " + x + "!")
