@@ -1,5 +1,5 @@
 thisList = ["Apple", "Banana", "Cherry", "Katal","Orange","Mango"]
-# List Allows multiple Data types while sets and tuple don't 
+# List Allows multiple Data types while sets and tuple don't
 print(len(thisList))
 
 print(thisList[0])
